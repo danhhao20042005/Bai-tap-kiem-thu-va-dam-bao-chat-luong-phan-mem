@@ -1,0 +1,12 @@
+KET QUA KIEM THU:
+BOUNDARY - Dong 2: Expected=Loi, Actual=Loi => PASS
+BOUNDARY - Dong 3: Expected=Loi, Actual=Loi => PASS
+BOUNDARY - Dong 4: Expected=5000, Actual=5000 => PASS
+BOUNDARY - Dong 5: Expected=5000, Actual=5000 => PASS
+BOUNDARY - Dong 6: Expected=10000, Actual=10000 => PASS
+BOUNDARY - Dong 7: Expected=10000, Actual=10000 => PASS
+BOUNDARY - Dong 8: Expected=15000, Actual=15000 => PASS
+DECISION - Dong 9: Expected=20000, Actual=20000 => PASS
+DECISION - Dong 10: Expected=40000, Actual=40000 => PASS
+DECISION - Dong 11: Expected=60000, Actual=60000 => PASS
+DECISION - Dong 12: Expected=Loi, Actual=Loi => PASS

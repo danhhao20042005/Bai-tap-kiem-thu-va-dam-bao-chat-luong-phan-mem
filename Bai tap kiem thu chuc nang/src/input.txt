@@ -1,0 +1,12 @@
+test_type,so_gio,loai_xe,expected
+BOUNDARY,-1,xe_may,Loi
+BOUNDARY,0,xe_may,Loi
+BOUNDARY,0.1,xe_may,5000
+BOUNDARY,2,xe_may,5000
+BOUNDARY,2.1,xe_may,10000
+BOUNDARY,5,xe_may,10000
+BOUNDARY,5.1,xe_may,15000
+DECISION,2,o_to,20000
+DECISION,5,o_to,40000
+DECISION,6,o_to,60000
+DECISION,3,xe_dap,Loi

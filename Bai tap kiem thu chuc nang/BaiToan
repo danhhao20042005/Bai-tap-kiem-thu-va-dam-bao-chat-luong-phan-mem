@@ -1,0 +1,19 @@
+Bài toán: Tính phí gửi xe
+Input:
+so_gio (float): số giờ gửi xe (≥ 0)
+loai_xe (string): "xe_may" hoặc "o_to"
+
+Quy tắc tính phí:
+Xe máy:
+0 < giờ ≤ 2 → 5,000đ
+2 < giờ ≤ 5 → 10,000đ
+5 giờ → 15,000đ
+
+Ô tô:
+0 < giờ ≤ 2 → 20,000đ
+2 < giờ ≤ 5 → 40,000đ
+5 giờ → 60,000đ
+
+Trường hợp lỗi:
+so_gio ≤ 0 → lỗi
+loai_xe không hợp lệ → lỗi
